@@ -18,5 +18,6 @@ $ git clone [URL]
 6) Click on index.html, right-click on the same file and click
    "Show preview." This should open the website to the right. You can also
    copy the URL and paste it into your browser.
+Hello!
 
 
